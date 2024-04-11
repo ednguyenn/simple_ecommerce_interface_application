@@ -1,0 +1,12 @@
+{'user_id':'u_6831494256', 'user_name':'useradtu', 'user_password':'password7383', 'user_register_time':'11-04-2024_21:11:58', 'user_role':'customer', 'user_email':'useradtu@testdata.com', 'user_mobile':'0460484594'}
+{'user_id':'u_9862084200', 'user_name':'userimqo', 'user_password':'password8684', 'user_register_time':'11-04-2024_21:12:01', 'user_role':'customer', 'user_email':'userimqo@testdata.com', 'user_mobile':'0492512178'}
+{'user_id':'u_4194492984', 'user_name':'userwalz', 'user_password':'password4991', 'user_register_time':'11-04-2024_21:12:03', 'user_role':'customer', 'user_email':'userwalz@testdata.com', 'user_mobile':'0454514256'}
+{'user_id':'u_2747882646', 'user_name':'useroyeu', 'user_password':'password4559', 'user_register_time':'11-04-2024_21:12:07', 'user_role':'customer', 'user_email':'useroyeu@testdata.com', 'user_mobile':'0457284767'}
+{'user_id':'u_8632608962', 'user_name':'userdgyv', 'user_password':'password1997', 'user_register_time':'11-04-2024_21:12:12', 'user_role':'customer', 'user_email':'userdgyv@testdata.com', 'user_mobile':'0475464919'}
+{'user_id':'u_6056303369', 'user_name':'userlcua', 'user_password':'password6861', 'user_register_time':'11-04-2024_21:12:14', 'user_role':'customer', 'user_email':'userlcua@testdata.com', 'user_mobile':'0417359905'}
+{'user_id':'u_4716369101', 'user_name':'userhymw', 'user_password':'password8478', 'user_register_time':'11-04-2024_21:12:18', 'user_role':'customer', 'user_email':'userhymw@testdata.com', 'user_mobile':'0415095966'}
+{'user_id':'u_1494515218', 'user_name':'userayew', 'user_password':'password4171', 'user_register_time':'11-04-2024_21:12:25', 'user_role':'customer', 'user_email':'userayew@testdata.com', 'user_mobile':'0417709560'}
+{'user_id':'u_8346294649', 'user_name':'usersaim', 'user_password':'password7815', 'user_register_time':'11-04-2024_21:12:35', 'user_role':'customer', 'user_email':'usersaim@testdata.com', 'user_mobile':'0436723754'}
+{'user_id':'u_2492583182', 'user_name':'userjdcn', 'user_password':'password5710', 'user_register_time':'11-04-2024_21:12:42', 'user_role':'customer', 'user_email':'userjdcn@testdata.com', 'user_mobile':'0493168472'}
+{'user_id':'u_0943809163', 'user_name':'Admin', 'user_password':'Admin123','user_register_time':'2024-04-11 21:12:51', 'user_role':'admin'}
+{'user_id':'u_7959341255', 'user_name':'datnguyen', 'user_password':'datnguyen123', 'user_register_time':'11-04-2024_21:13:55', 'user_role':'customer', 'user_email':'datlyk12@gmail.com', 'user_mobile':'0420216545'}
